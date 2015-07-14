@@ -1,0 +1,13 @@
+experiments/Img2Gray$Img2GrayMapper.class
+core/writables/BufferedImageWritable.class
+core/formats/CombineImageInputFormat.class
+core/formats/ImageInputFormat.class
+core/formats/BufferedImage/BufferedImageInputFormat.class
+experiments/Img2Gray.class
+core/recordReaders/BufferedImage/BufferedImageRecordReader.class
+core/recordReaders/ImageRecordWriter.class
+core/MiprMain.class
+core/recordReaders/ImageRecordReader.class
+core/writables/ImageWritable.class
+core/formats/BufferedImage/BufferedImageOutputFormat.class
+core/recordReaders/BufferedImage/BufferedImageRecordWriter.class

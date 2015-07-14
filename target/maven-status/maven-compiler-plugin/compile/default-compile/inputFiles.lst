@@ -1,0 +1,12 @@
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/recordReaders/BufferedImage/BufferedImageRecordReader.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/formats/BufferedImage/BufferedImageInputFormat.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/writables/ImageWritable.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/recordReaders/ImageRecordWriter.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/MiprMain.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/writables/BufferedImageWritable.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/recordReaders/BufferedImage/BufferedImageRecordWriter.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/formats/CombineImageInputFormat.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/formats/BufferedImage/BufferedImageOutputFormat.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/formats/ImageInputFormat.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/experiments/Img2Gray.java
+/home/broniesaremagic/Code/mapreduce/core_package/src/main/java/core/recordReaders/ImageRecordReader.java
